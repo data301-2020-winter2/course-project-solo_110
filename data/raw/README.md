@@ -1,1 +1,1 @@
-raw data should go in this directory
+Raw data should go in this directory.
