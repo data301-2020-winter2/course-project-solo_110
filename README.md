@@ -5,7 +5,7 @@
 
 ## Milestones
 
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+Milestone 1 - Choose and load dataset.
 
 ## Describe your topic/interest in about 150-200 words
 
