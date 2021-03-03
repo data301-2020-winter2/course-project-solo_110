@@ -1,1 +1,4 @@
-Any external images you use should be in this directory.
+# Images README
+---
+## Purpose:
+> Any *external* images you use should be in **this** directory.
