@@ -1,5 +1,5 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=360679&assignment_repo_type=GroupAssignmentRepo)
-# Solo 110 - Airbnb (Barcelona, Spain) Listings Analysis: What is the best price range to look at in terms of customer reviews and number of people that can be accommodated for properties to stay at in Barcelona, Spain.
+# Solo 110 - Airbnb (Barcelona, Spain) Listings Analysis: What is the best price range to look at in terms of customer reviews and number of people that can be accommodated for properties to stay at in Barcelona, Spain?
 
 ## Milestones
 
