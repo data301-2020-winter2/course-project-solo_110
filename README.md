@@ -6,6 +6,8 @@
 - Milestone 1: Choose and load dataset.
 - Milestone 2: Data cleanup and processing; EDA and research question analysis using visuals.
 - Milestone 3: Addressed feedback and prepped for Tableau
+- Milestone 4: Dashboard Presentation 
+    - Link: https://youtu.be/Sq8Qs_bxDzs
 
 ## Describe your topic/interest in about 150-200 words
 
